@@ -1,2 +1,2 @@
-##New Portfolio
-###One-Page portfolio with dark-green theme.
+## New Portfolio
+### One-Page portfolio with dark-green theme.
